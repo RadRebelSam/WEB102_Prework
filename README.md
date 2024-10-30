@@ -26,7 +26,17 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/5RetJn3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div>
+    <a href="https://i.imgur.com/5RetJn3.gif">
+      <p>Sea Monster Crowdfunding Website Walkthrough</p>
+    </a>
+    <a href="https://i.imgur.com/5RetJn3.gif">
+      <img src='https://i.imgur.com/5RetJn3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+    </a>
+  </div>
+
+
+
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
