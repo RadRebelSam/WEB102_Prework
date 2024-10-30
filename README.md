@@ -35,9 +35,6 @@ Here's a walkthrough of implemented features:
     </a>
   </div>
 
-
-
-
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
